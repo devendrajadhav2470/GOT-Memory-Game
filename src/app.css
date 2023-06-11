@@ -1,0 +1,30 @@
+* {
+  background-color: bisque;
+  font-family: "Roboto", sans-serif;
+}
+.gallery {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.gallery > div {
+  background-color: #e7e5e4;
+  border-radius: 20px;
+  margin-bottom: 18px;
+  margin-top: 45px;
+  padding: 10px;
+}
+.heading {
+  display: flex;
+  align-items: center;
+  padding: 40px;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+.heading > .h2 > .logo {
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  font-weight: bolder;
+  color: #422006;
+}

@@ -1,0 +1,19 @@
+.image {
+  width: 300px;
+  height: 300px;
+  border-radius: 20px;
+  background-color: #e7e5e4;
+}
+.caption {
+  width: 300px;
+  text-align: center;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  background-color: #e7e5e4;
+  color: #404040;
+}
+.card {
+  background-color: #e7e5e4;
+}
+/* i want to implement the randomization logic  */
